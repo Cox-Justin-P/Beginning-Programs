@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{32B1AE47-7800-4BA2-A8F7-1682223047A8}</ProjectGuid>
+    <ProjectGuid>{6590FB2F-BE97-4645-B26F-3D11CEB7703B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>StudentScores</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
@@ -154,7 +154,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp" />
-    <ClCompile Include="StudentScores.cpp" />
+    <ClCompile Include="Student Scores.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

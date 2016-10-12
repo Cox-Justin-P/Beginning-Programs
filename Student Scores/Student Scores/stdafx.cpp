@@ -1,5 +1,5 @@
 // stdafx.cpp : source file that includes just the standard includes
-// StudentScores.pch will be the pre-compiled header
+// Student Scores.pch will be the pre-compiled header
 // stdafx.obj will contain the pre-compiled type information
 
 #include "stdafx.h"
