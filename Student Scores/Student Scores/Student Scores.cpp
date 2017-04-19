@@ -2,7 +2,6 @@
 #include<string>
 using namespace std;
 
-// Testing to see if my changes can be pushed!!
 //This is a program where you can enter in the students name and scores and get some nifty results
 /*************************************************************************************************
 *	INPUT
@@ -11,7 +10,7 @@ using namespace std;
 *
 *	OUTPUT
 *	-students names with their letter grade
-* Taylor is hot
+* 
 */
 
 
